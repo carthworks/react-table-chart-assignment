@@ -45,8 +45,6 @@ export default function App() {
       }
 
       // Log the generated data to the console
-      // console.log(randomData);
-      // console.log(randomData);
       return randomData;
     }
     //const alldata = GenerateData();
